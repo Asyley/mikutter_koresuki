@@ -19,3 +19,4 @@ Plugin.create(:mikutter_koresuki) do
 
   end
 end
+
